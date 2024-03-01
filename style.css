@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  color: #00008B;
+  background-color: #ADD8E6;
+}
+
+button{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #034d85;
+  padding: 1.1rem 3.4rem;
+  border-radius: .2rem;
+  transition: opacity .2s;
+}
+
+button:hover{
+  cursor: pointer;
+  background: #053056;
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
+
+h1, p{
+  text-align: center;
+}
