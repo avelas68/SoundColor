@@ -5,5 +5,7 @@ Methods:<br>
 Findings:<br>
 	This project taught me a lot about the sound portions of P5JS that I had not worked with before. In order for me to have sorted the corresponding amplitudes with one another I had to listen to different songs with our program running  while using Inspect on the console to see what types of amplitudes were being printed out. After listening to a wide variety of music I was able to divide the levels of amplitude that were being printed onto the console into five groups. Each group had a different level of peak amplitude. After I was able to figure out how peak amplitudes were being calculated with P5JS the rest was pretty simple and fun for me and my classmates to create.<br>
 
- ![GreatestWebsiteImageCroped](https://github.com/avelas68/SoundColor/assets/47703183/cb50e0fb-e7b7-4a67-b681-ad2dc2010244)
+ ![GreatestWebsiteImageCroped](https://github.com/avelas68/SoundColor/assets/47703183/cb50e0fb-e7b7-4a67-b681-ad2dc2010244)<br>
+
+ https://avelas68.github.io/SoundColor/
 
